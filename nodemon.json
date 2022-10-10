@@ -1,0 +1,6 @@
+{
+  "watch": ["./demo/**/*"],
+  "ext": "txt",
+  "quiet": "true",
+  "exec": "webpack serve --hot"
+}
